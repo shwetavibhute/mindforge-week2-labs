@@ -41,4 +41,5 @@ Docker helps developers build, test, and deploy Python applications in a reliabl
 
 
  [Assignment 1: Analytics](https://github.com/shwetavibhute/mindforge-week2-labs/blob/main/Assignment_1_Analytics.ipynb)
+ 
  [Assignment 2: Automation](https://github.com/shwetavibhute/mindforge-week2-labs/blob/main/Assignment_2_Automation.ipynb)
