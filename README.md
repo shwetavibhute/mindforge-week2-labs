@@ -38,3 +38,7 @@ Running Python inside a Docker Container has several advantages:
 * Improves collaboration because the application behaves the same on every machine.
 
 Docker helps developers build, test, and deploy Python applications in a reliable and consistent environment.
+
+
+ [Assignment 1: Analytics](https://github.com/shwetavibhute/mindforge-week2-labs/blob/main/Assignment_1_Analytics.ipynb)
+ [Assignment 2: Automation](https://github.com/shwetavibhute/mindforge-week2-labs/blob/main/Assignment_2_Automation.ipynb)
